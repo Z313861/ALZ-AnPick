@@ -2,6 +2,3 @@ streamlit
 plotly
 pandas
 numpy
-sqlite3
-psycopg2(PostgreSQL)
-python-datetime
